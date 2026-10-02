@@ -1,6 +1,4 @@
-# NOTES: Mistvale store rescue
 
-> Items marked **[FILL IN]** are things only you can answer truthfully (your own testing, your time). Complete or delete them before you submit. Do not leave them as they are.
 
 ## 1. What I changed
 
