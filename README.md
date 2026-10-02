@@ -8,34 +8,34 @@ The original page worked on paper but looked amateur, broke the cart maths, igno
 
 ### Desktop home page
 
-![Desktop home page](screenshots/01-desktop-home.png)
+![Desktop home page](images/01-desktop-home.png)
 
 ### Shop grid
 
 Search, category filter and sort work together. Sold-out teas always sort last.
 
-![Shop grid](screenshots/02-shop-grid.png)
+![Shop grid](images/02-shop-grid.png)
 
 ### Cart drawer
 
 Quantity stepper, free-shipping meter, coupon message and full totals.
 
-![Cart drawer with coupon applied](screenshots/03-cart-drawer.png)
+![Cart drawer with coupon applied](images/03-cart-drawer.png)
 
 ### Quick view
 
-![Quick view dialog](screenshots/04-quick-view.png)
+![Quick view dialog](images/04-quick-view.png)
 
 ### Delivery check and FAQ
 
-![Delivery check and FAQ](screenshots/05-delivery-and-faq.png)
+![Delivery check and FAQ](images/05-delivery-and-faq.png)
 
 ### Mobile (390px wide)
 
 <p align="center">
-  <img src="screenshots/06-mobile-home.png" alt="Mobile home page" width="30%">
-  <img src="screenshots/07-mobile-shop.png" alt="Mobile shop" width="30%">
-  <img src="screenshots/08-mobile-cart.png" alt="Mobile cart" width="30%">
+  <img src="images/06-mobile-home.png" alt="Mobile home page" width="30%">
+  <img src="images/07-mobile-shop.png" alt="Mobile shop" width="30%">
+  <img src="images/08-mobile-cart.png" alt="Mobile cart" width="30%">
 </p>
 
 > The screenshots were captured in an offline sandbox, so Google Fonts could not load and the page shows fallback fonts instead of Fraunces and Inter. For final screenshots, open `index.html` in Chrome on your machine and recapture.
