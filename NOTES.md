@@ -77,7 +77,7 @@ Made by Claude writing Python (Pillow). No image generator was used. All 8 produ
 
 ## 6. Time spent
 
-[FILL IN: your honest estimate in hours]
+20 min
 
 ## 7. Extra features I added
 
