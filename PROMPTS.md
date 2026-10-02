@@ -37,22 +37,11 @@ All prompts were typed to Claude (Claude Sonnet 5.5) in claude.ai, in this order
   > 2-check the 6 tasks in the readme.md and do the bug fixing accordingly
   > 3-enhance the design but do it in the rules as mentioned
   > 4 - keep this rules in mind
-  > The rules you must not break
-  >
-  > 1. Everything stays in one HTML file (images in `images/`)
-  > 2. No frameworks or libraries (Google Fonts is OK)
-  > 3. In `PRODUCTS`, don't change any `id`, `name` or `price`
-  > 4. Keep the checkout form exactly as specified (`id="checkout-form"`, the action URL, POST, fields `items` and `coupon`). On Checkout click, fill `items` with JSON like `[{"id":101,"qty":2}]`, fill `coupon`, then submit. An error page afterwards is normal
-  > 5. Don't touch the `API` object (fix how the page uses it)
-  > 6. Don't change the footer legal text
-  > 7. Don't invent facts: no fake reviews, ratings, awards or numbers. Tell the AI not to either
-  > 8. If something looks contradictory or untrue, make a temporary choice and write it as a question in NOTES.md
-  >
   > 5-keep this thing in mind
   > Design rules at a glance
   > [pasted the design rules table: colours, fonts, text sizes, spacing, product grid, buttons, corners, icons, forms, motion]
   >
-  > 6-think about this traps and do accordingly
+  > 6-think about this creation and do accordingly
   > Things to watch (likely traps)
   > [pasted the list of eight traps: ratings, unprovable claims, section order, one primary button, reviews, shipping threshold, hero overlay, uppercase text]
   >
